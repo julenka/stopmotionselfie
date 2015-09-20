@@ -1,5 +1,5 @@
 ## Make Stop Motion Selfies With Python
-Scripts to help you take photos of yourself with your webcam every minute or so. 
+Scripts to help you take photos of yourself with your webcam every minute or so. [Here's a demo](https://youtu.be/W071Y5Boq-A). 
 
 ### Installation (OSX)
 Make sure you install [homebrew](http://brew.sh/) first.
